@@ -1,0 +1,32 @@
+## 📦 `requirements.txt`
+
+```txt
+# Core ML
+torch>=2.0.0
+torchvision>=0.15.0
+fastai>=2.7
+
+# Geospatial tools
+geopandas
+shapely
+rasterio
+osmnx
+folium
+geemap
+openstreetmap
+pyproj
+
+# Data manipulation
+pandas
+numpy
+scikit-learn
+
+# Visualization and app
+matplotlib
+streamlit
+streamlit-folium
+jupyter
+
+# Utils
+tqdm
+Pillow
